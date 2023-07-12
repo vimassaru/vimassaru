@@ -1,4 +1,4 @@
-"Desenvolvedor apaixonado por explorar o potencial da tecnologia. De front-end a machine learning e inteligência artificial, estou em constante evolução. Minha jornada começou com a criação de interfaces envolventes e intuitivas, mas agora estou mergulhando fundo no mundo dos dados e dos algoritmos inteligentes.
+Desenvolvedor apaixonado por explorar o potencial da tecnologia. De front-end a machine learning e inteligência artificial, estou em constante evolução. Minha jornada começou com a criação de interfaces envolventes e intuitivas, mas agora estou mergulhando fundo no mundo dos dados e dos algoritmos inteligentes.
 
 Com habilidades sólidas em HTML, CSS e JavaScript, adquiri uma base sólida na construção de aplicações web modernas. No entanto, minha curiosidade me levou a mergulhar no emocionante campo do machine learning e da inteligência artificial. Estou embarcando em uma nova aventura, aplicando modelos preditivos, redes neurais e algoritmos de aprendizado de máquina para resolver problemas complexos.
 
@@ -6,7 +6,7 @@ Meu objetivo é combinar minha experiência em desenvolvimento front-end com té
 
 Se você está interessado em colaborar em projetos que unam a criatividade do front-end com a inteligência dos algoritmos, estou animado para fazer parte de equipes multidisciplinares. Vamos juntos explorar novas fronteiras da tecnologia!
 
-Entre em contato comigo através deste perfil do GitHub ou por e-mail. Vamos criar algo incrível juntos!"
+Entre em contato comigo através deste perfil do GitHub ou por e-mail. Vamos criar algo incrível juntos!
 <br>
 
 <div align="center">
