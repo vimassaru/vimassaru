@@ -1,12 +1,14 @@
-Desenvolvedor apaixonado por explorar o potencial da tecnologia. De front-end a machine learning e inteligência artificial, estou em constante evolução. Minha jornada começou com a criação de interfaces envolventes e intuitivas, mas agora estou mergulhando fundo no mundo dos dados e dos algoritmos inteligentes.
+Sou Desenvolvedor Front-End focado em criar aplicações web modernas, responsivas e performáticas utilizando React.js, TypeScript e Vite.
 
-Com habilidades sólidas em HTML, CSS e JavaScript, adquiri uma base sólida na construção de aplicações web modernas. No entanto, minha curiosidade me levou a mergulhar no emocionante campo do machine learning e da inteligência artificial. Estou embarcando em uma nova aventura, aplicando modelos preditivos, redes neurais e algoritmos de aprendizado de máquina para resolver problemas complexos.
+Tenho experiência prática na construção de interfaces escaláveis, componentização reutilizável, integração com APIs RESTful e estilização com TailwindCSS. Além disso, possuo conhecimento em práticas de otimização de performance e acessibilidade web (A11Y).
 
-Meu objetivo é combinar minha experiência em desenvolvimento front-end com técnicas avançadas de machine learning para criar soluções inovadoras. Estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias para ficar atualizado neste campo em constante evolução.
+Minha formação em Ciência e Tecnologia pela UNIFESP me proporciona uma visão analítica e de solução de problemas, complementada pela vivência prática em projetos com tecnologias como AWS, DynamoDB e FastAPI.
 
-Se você está interessado em colaborar em projetos que unam a criatividade do front-end com a inteligência dos algoritmos, estou animado para fazer parte de equipes multidisciplinares. Vamos juntos explorar novas fronteiras da tecnologia!
+Atualmente, busco participar de projetos desafiadores que impactem positivamente a vida das pessoas através da tecnologia.
 
-Entre em contato comigo através deste perfil do GitHub ou por e-mail. Vamos criar algo incrível juntos!
+⚡ Principais Tecnologias: React.js | TypeScript | Vite | TailwindCSS | Axios | AWS
+⚡ Outras Skills: Git, CI/CD básico, Integração com APIs, Desenvolvimento Ágil (Scrum)
+
 <br>
 
 <div align="center">
